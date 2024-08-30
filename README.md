@@ -1,0 +1,1 @@
+# Software-gestionale-per-negozio-di-prodotti-vegani
