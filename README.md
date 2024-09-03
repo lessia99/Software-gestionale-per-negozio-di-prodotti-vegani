@@ -1,6 +1,5 @@
 # Software-gestionale-per-negozio-di-prodotti-vegani
 
-**Descrizione:**
 Piccolo software gestionale per un negozio. Il software ha le seguenti funzionalità:
 - Registrare nuovi prodotti, con nome, quantità, prezzo di vendita e prezzo di acquisto;
 - Elencare tutti i prodotti presenti;
@@ -11,10 +10,14 @@ Piccolo software gestionale per un negozio. Il software ha le seguenti funzional
 Il software è testuale, quindi utilizzabile da riga di comando.
 
 
-**Utilizzo:**
-Necessaria installazione di Python; per visualizzare il codice: Google Colab, Jupiter  (Anacoda) o qualsiasi altro strumento open-source. 
+## Requisiti e utilizzo
 
-**Esempio:**
+- Python installato 
+- Da importare
+  - csv
+  - os
+
+## Esempio
 
 ESEMPIO DI INTERAZIONE CON IL PROGRAMMA (in grassetto l'input dell'utente)
 
@@ -35,3 +38,6 @@ Quantità: **20**
 Prezzo di acquisto: **0.80**
 Prezzo di vendita: **1.40**
 AGGIUNTO: 20 X latte di soia
+
+## Contatti
+Per domande, suggerimenti o feedback, contattatemi pure alla mail alessiaagostini53@gmail.com.
