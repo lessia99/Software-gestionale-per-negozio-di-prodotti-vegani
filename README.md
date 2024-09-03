@@ -22,8 +22,8 @@ Il software è testuale, quindi utilizzabile da riga di comando.
 ESEMPIO DI INTERAZIONE CON IL PROGRAMMA (in grassetto l'input dell'utente)
 
 
-Inserisci un comando: **aiuto**
-I comandi disponibili sono i seguenti:
+Inserisci un comando: **aiuto** /n
+I comandi disponibili sono i seguenti:/n
 aggiungi: aggiungi un prodotto al magazzino
 elenca: elenca i prodotto in magazzino
 vendita: registra una vendita effettuata
