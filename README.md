@@ -32,12 +32,12 @@ aiuto: mostra i possibili comandi
 chiudi: esci dal programma  
 
 
-Inserisci un comando: **aggiungi**
-Nome del prodotto: **latte di soia**
-Quantità: **20**
-Prezzo di acquisto: **0.80**
-Prezzo di vendita: **1.40**
-AGGIUNTO: 20 X latte di soia
+Inserisci un comando: **aggiungi**  
+Nome del prodotto: **latte di soia**  
+Quantità: **20**  
+Prezzo di acquisto: **0.80**  
+Prezzo di vendita: **1.40**   
+AGGIUNTO: 20 X latte di soia  
 
 ## Contatti
 Per domande, suggerimenti o feedback, contattatemi pure alla mail alessiaagostini53@gmail.com.
